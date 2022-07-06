@@ -21,7 +21,7 @@ public class JsonChangeFormServiceImpl implements JsonChangeFormService {
     @Override
     public Email jsonToEmail(String path) {
         /* Check path have suffix - json */
-        if (!path.contains("json")) {
+        if (!path.contains(".json")) {
             path = path.concat(".json");
         }
 

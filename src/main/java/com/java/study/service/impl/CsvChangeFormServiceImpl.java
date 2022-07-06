@@ -20,7 +20,7 @@ public class CsvChangeFormServiceImpl implements CsvChangeFormService {
     @Override
     public List<Customer> csvToCustomers(String path) {
         /* Check path have suffix - csv */
-        if (!path.contains("csv")) {
+        if (!path.contains(".csv")) {
             path = path.concat(".csv");
         }
 
