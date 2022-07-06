@@ -4,7 +4,7 @@
 * In Console Menu
   - chat 1 to continue
   - chat 2 to close
-* IF chat 1
+* If chat 1
   - Input customer csv path like: "src/main/java/com/java/study/path/to/customers" or "src/main/java/com/java/study/path/to/customers.csv"
     or direct link: "E:\Project\caseStudy\src\main\java\com\java\study\path\to\customers.csv"
   - Input email template path like "src/main/java/com/java/study/path/to/email_template" or "src/main/java/com/java/study/path/to/email_template.json"
