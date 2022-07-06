@@ -13,6 +13,7 @@
     or direct link: "E:\Project\caseStudy\src\main\java\com\java\study\path\to\output_emails"
   - chat 0 to close
   
-* Notes: - if not found customer, it will show message: "Customer file is not found!"
+* Notes: 
+         - if not found customer, it will show message: "Customer file is not found!"
          - if not found email template, it will show message: "email template file is not found!"
          - if chat is not a number, it will show message "Please enter number"
