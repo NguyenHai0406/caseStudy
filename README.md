@@ -14,6 +14,6 @@
   - chat 0 to close
   
 * Notes: 
-         - if not found customer, it will show message: "Customer file is not found!"
-         - if not found email template, it will show message: "email template file is not found!"
-         - if chat is not a number, it will show message "Please enter number"
+  - if not found customer, it will show message: "Customer file is not found!"
+  - if not found email template, it will show message: "email template file is not found!"
+  - if chat is not a number, it will show message "Please enter number"
